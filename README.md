@@ -28,7 +28,7 @@ Options:
       --disable-content-trust   Skip image verification (default true)
   -f, --file string             Name of the Dockerfile (Default is 'PATH/Dockerfile')
       --force-rm                Always remove intermediate containers
-      **--iidfile string          Write the image ID to the file**
+      --iidfile string          Write the image ID to the file
       --isolation string        Container isolation technology
       --label list              Set metadata for an image
   -m, --memory bytes            Memory limit
