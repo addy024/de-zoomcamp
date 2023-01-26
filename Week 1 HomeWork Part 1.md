@@ -1,7 +1,8 @@
 #de-zoomcamp
 
-## DE-ZOOMCAMP 2023 - Homework 1
-### Docker and SQL
+## DE-ZOOMCAMP 2023 - Week 1
+
+### Homework 1 Docker and SQL
 
 
 #### Question 1: Knowing docker tags
